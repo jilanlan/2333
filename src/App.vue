@@ -123,43 +123,38 @@ html{
 技能
 ----
 
-*熟练使用HTML、CSS、JS等语言和WebStorm，Sublime，Hbuilder等开发工具。
+* 熟练使用HTML、CSS、JS等语言和WebStorm，Sublime，Hbuilder等开发工具。
 
-*熟练使用HTML5+CSS3、DIV+CSS等网站前端技术。
+* 熟练使用HTML5+CSS3、DIV+CSS等网站前端技术。
 
-*能够使用scss、stylus等CSS预处理器。
+* 能够使用scss、stylus等CSS预处理器。
 
-*能够使用Ajax实现与服务器的异步通信，完成页面的局部提交和刷新。
+* 能够使用Ajax实现与服务器的异步通信，完成页面的局部提交和刷新。
 
-*熟练使用AngularJS、vue.js、jQuery、bootstrap等前端框架。
+* 熟练使用AngularJS、vue.js、jQuery、bootstrap等前端框架。
 
-*熟悉gulp、node、bower、ionic等前端框架使用，能熟练配置各类gulp任务。
+* 熟悉gulp、node、bower、ionic等前端框架使用，能熟练配置各类gulp任务。
 
-*熟练使用git代码管理工具，并在github上提交代码。
+* 熟练使用git代码管理工具，并在github上提交代码。
 
-*了解node后台，熟练掌握Ajax技术。
+* 了解node后台，熟练掌握Ajax技术。
 
-*能够使用ionic+AngularJS进行Hybrid App开发，一套代码iOS安卓通用。
+* 能够使用ionic+AngularJS进行Hybrid App开发，一套代码iOS安卓通用。
 
-*能够使用vue-cli脚手架，配置项目，搭建项目骨架，搭配mintUI开发移动web页面。
+* 能够使用vue-cli脚手架，配置项目，搭建项目骨架，搭配mintUI开发移动web页面。
 
-*能够使用MUI或HUI开发HTML5+APP。
+* 能够使用MUI或HUI开发HTML5+APP。
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [GitHub](https://github.com/jilanlan)
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
 
 `
       }
