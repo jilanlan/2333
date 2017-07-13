@@ -64,11 +64,16 @@ html{
 
 /* 接下来我给自己准备一个编辑器 */
 .resumeEditor{
-  position: fixed; right: 0; top: 0;
-  padding: .5em;  margin: .5em;
-  width: 48vw; height: 90vh;
+  position: fixed;
+  right: 0;
+  top: 0;
+  padding: .5em;
+  margin: .5em;
+  width: 48vw;
+  height: 90vh;
   border: 1px solid;
-  background: white; color: #222;
+  background: white;
+  color: #222;
   overflow: auto;
 }
 /* 好了，我开始写简历了 */
@@ -123,30 +128,33 @@ html{
 技能
 ----
 
-* 熟练使用HTML、CSS、JS等语言和WebStorm，Sublime，Hbuilder等开发工具。
+1、熟练使用HTML、CSS、JS等语言和WebStorm，Sublime，Hbuilder等开发工具。
 
-* 熟练使用HTML5+CSS3、DIV+CSS等网站前端技术。
+2、熟练使用HTML5+CSS3、DIV+CSS等网站前端技术。
 
-* 能够使用scss、stylus等CSS预处理器。
+3、能够使用scss、stylus等CSS预处理器。
 
-* 能够使用Ajax实现与服务器的异步通信，完成页面的局部提交和刷新。
+4、能够使用Ajax实现与服务器的异步通信，完成页面的局部提交和刷新
 
-* 熟练使用AngularJS、vue.js、jQuery、bootstrap等前端框架。
+5、熟练使用AngularJS、vue.js、jQuery、bootstrap等前端框架。
 
-* 熟悉gulp、node、bower、ionic等前端框架使用，能熟练配置各类gulp任务。
+6、熟悉gulp、node、bower、ionic等前端框架使用，能熟练配置各类gulp任务。
 
-* 熟练使用git代码管理工具，并在github上提交代码。
+7、熟练使用git代码管理工具，并在github上提交代码。
 
-* 了解node后台，熟练掌握Ajax技术。
+8、了解node后台，熟练掌握Ajax技术。
 
-* 能够使用ionic+AngularJS进行Hybrid App开发，一套代码iOS安卓通用。
+9、能够使用ionic+AngularJS进行Hybrid App开发，一套代码iOS安卓通用。
 
-* 能够使用vue-cli脚手架，配置项目，搭建项目骨架，搭配mintUI开发移动web页面。
+10、能够使用vue-cli脚手架，配置项目，搭建项目骨架，搭配mintUI开发移动web页面。
 
-* 能够使用MUI或HUI开发HTML5+APP。
+11、能够使用MUI或HUI开发HTML5+APP。
 
 工作经历
 ----
+> 2017年4月到6月期间工作于合肥掌控互联科技网络有限公司
+主要工作职责：
+    协助公司产品或项目Web前端开发，根据产品需求和UI效果图利用WebStorm编程软件进行标准网页制作，js逻辑设计与开发、jQuery特效编写以及使用插件实现特效，解决主流浏览器兼容性问题，对网站用户体验性能进行优化，完成产品前端展示效果和交互功能。
 
 
 
