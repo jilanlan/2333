@@ -23,7 +23,7 @@
         enableHtml: false,
         fullStyle: [
           `
-        /*大家好我是季兰兰*/
+        /*您好我是季兰兰*/
        /* 首先给所有元素加上过渡效果 */
 * {
   -webkit-transition: all .3s;
